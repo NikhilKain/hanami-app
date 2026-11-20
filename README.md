@@ -149,7 +149,8 @@ again. Copies from Google Play don't need this step.
 
 ## Privacy
 
-- No account, no ads, no analytics service run by the developer.
+- No account and no ads. An anonymous check-in counts how many phones use Hanami (a scrambled
+  device ID, phone model and versions), never your list or searches.
 - Your list, progress, notes and reminders are stored on your phone.
 - Searches and saved titles are looked up on TMDB. Trakt, trace.moe and crash reports
   are only used if you choose to use them.
@@ -185,7 +186,8 @@ Read the full [privacy policy](https://nikhilkain.github.io/hanami-privacy/).
 - News and release notes: [t.me/hanami_tracker](https://t.me/hanami_tracker)
 - Questions and help: [t.me/vythera_apps](https://t.me/vythera_apps)
 - Email: narzo9990@gmail.com
-- In the app: **Settings → Report a problem**, or send the crash report Hanami offers after a crash.
+- In the app: **Settings → Help → Send feedback** to report a bug, request a feature or send a
+  message. After a crash, Hanami saves the log to Download/Hanami so you can attach it.
 
 Bugs and ideas are welcome as [issues](https://github.com/NikhilKain/hanami-app/issues).
 
